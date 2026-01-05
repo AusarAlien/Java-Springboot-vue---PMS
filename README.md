@@ -1,16 +1,3 @@
-**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
-
-**接毕业设计和论文**
-
-**博客地址：
-[https://blog.csdn.net/2303_76227485/article/details/134020139](https://blog.csdn.net/2303_76227485/article/details/134020139)**
-
-**视频演示：
-[https://www.bilibili.com/video/BV1Tu4y1Y7Hn/](https://www.bilibili.com/video/BV1Tu4y1Y7Hn/)**
-
-**毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
-
 ## 基于Java+Springboot+vue的药店管理系统(源码+数据库)
 
 ## 一、系统介绍
@@ -36,8 +23,6 @@
 
 ## 三、环境介绍
 基础环境 :IDEA/eclipse, JDK 1.8, Mysql5.7及以上, Maven3.6, node.js(14版本)
-
-所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 
 ## 四、页面截图
 ### 1、功能页面
@@ -82,10 +67,4 @@
 5. vscode或idea打开drug-vue项目
 
 6. 在编译器中打开terminal，执行npm install 依赖下载完成后执行 npm run serve,执行成功后会显示前台访问地址
-
-**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
-
-**接毕业设计和论文**
-
-
 
