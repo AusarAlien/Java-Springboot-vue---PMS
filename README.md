@@ -1,4 +1,4 @@
-## 基于Java+Springboot+vue的药店管理系统(源码+数据库)
+## 基于Java+Springboot+vue的药店管理系统
 
 ## 一、系统介绍
 本系统前后端分离
@@ -54,7 +54,7 @@
 - 前台访问路径：http://localhost:8889
   账号密码：admin/123456
 
-## 六、安装教程
+## 六、安装
 
 1. 使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并执行项目的sql
 
